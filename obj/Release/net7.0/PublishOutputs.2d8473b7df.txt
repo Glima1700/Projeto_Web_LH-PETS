@@ -1,0 +1,13 @@
+C:\Senai\Projeto Web LH-PETS versão 1\bin\Release\net7.0\publish\Projeto Web LH-PETS versão 1.exe
+C:\Senai\Projeto Web LH-PETS versão 1\bin\Release\net7.0\publish\appsettings.Development.json
+C:\Senai\Projeto Web LH-PETS versão 1\bin\Release\net7.0\publish\appsettings.json
+C:\Senai\Projeto Web LH-PETS versão 1\bin\Release\net7.0\publish\Projeto Web LH-PETS versão 1.dll
+C:\Senai\Projeto Web LH-PETS versão 1\bin\Release\net7.0\publish\Projeto Web LH-PETS versão 1.deps.json
+C:\Senai\Projeto Web LH-PETS versão 1\bin\Release\net7.0\publish\Projeto Web LH-PETS versão 1.runtimeconfig.json
+C:\Senai\Projeto Web LH-PETS versão 1\bin\Release\net7.0\publish\Projeto Web LH-PETS versão 1.pdb
+C:\Senai\Projeto Web LH-PETS versão 1\bin\Release\net7.0\publish\System.Data.SqlClient.dll
+C:\Senai\Projeto Web LH-PETS versão 1\bin\Release\net7.0\publish\runtimes\win-arm64\native\sni.dll
+C:\Senai\Projeto Web LH-PETS versão 1\bin\Release\net7.0\publish\runtimes\win-x64\native\sni.dll
+C:\Senai\Projeto Web LH-PETS versão 1\bin\Release\net7.0\publish\runtimes\win-x86\native\sni.dll
+C:\Senai\Projeto Web LH-PETS versão 1\bin\Release\net7.0\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Senai\Projeto Web LH-PETS versão 1\bin\Release\net7.0\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
